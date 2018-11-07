@@ -1,0 +1,23 @@
+/*
+* Alex Willis 
+* November 5, 2018
+* Metadata web page on dogs 
+*/
+
+/* The universal selector */
+
+* { 
+
+} 
+
+/* Body attributes here */
+
+body {
+
+}
+
+header {background-color: lightpink}
+
+main {background-color: lightyellow}
+
+footer {background-color: lavender}
